@@ -1,8 +1,0 @@
-node {
-    try {
-        stage(' INITIALIZE ')
-       {
-
-       }
-    }
-}
