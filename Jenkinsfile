@@ -1,0 +1,8 @@
+node {
+    try {
+        stage(' INITIALIZE ')
+       {
+
+       }
+    }
+}
